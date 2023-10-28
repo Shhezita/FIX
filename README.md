@@ -9,15 +9,16 @@ Sign in into GFE with nvidia account. Its recomeneded to create a temp mail acco
 </p>
 
 ## **2a. Auto Install [FIX](https://github.com/Shhezita/FIX/releases/download/1.2/AutoInstall.ps1) and [app.js](https://github.com/Shhezita/FIX/releases/download/1.2/app.js)**
-**Download and extract release, right-click Install-Fix.ps1 and choose Run as Administrator**
-You may need to allow the script to run on your system. To do this:
-Run powershell as administrator, then run this powershell call :
+**Download and extract release, right-click  AutoInstall.ps1 and choose Run as Administrator**
+You may need to allow the script to run on your system. 
+
+To do this run powershell as administrator, then run this powershell call :
 
    ``` Set-ExecutionPolicy RemoteSigned```
   
    ``` Set-ExecutionPolicy Unrestricted```
 
-Type "A" then hit enter and re-run Install-Fix.ps1
+Type "A" then hit enter and re-run AutoInstall.ps1
 
 ## **2b. Manual Install [app.js](https://github.com/Shhezita/FIX/releases/download/1.2/app.js)**
 Fully close GFE, if needed use task manager.
@@ -28,7 +29,6 @@ app.js location:
  C:\Program Files\NVIDIA Corporation\NVIDIA GeForce Experience\www
 ```
 <sup> App.js changes explained [HERE](Manual.md) <sup>
-
 
 
 
