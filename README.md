@@ -6,9 +6,17 @@ Uninstall current GFExperience app from control panel. Not the drivers, just the
   <img src="https://github.com/Shhezita/FIX/assets/32721494/43a13c81-9904-4594-aa71-446961266be3" />
 </p>
 
+## **2a. Auto Install [FIX](https://github.com/Shhezita/FIX/releases/download/1.2/AutoInstall.ps1) and [app.js](https://github.com/Shhezita/FIX/releases/download/1.2/app.js)**
+**Download and extract release, right-click Install-Fix.ps1 and choose Run as Administrator**
+You may need to allow the script to run on your system. To do this:
+Run powershell as administrator, then run this powershell call :
 
+    Set-ExecutionPolicy RemoteSigned
+    Set-ExecutionPolicy Unrestricted
 
-## **2a. Manual Install [app.js]()**
+Type "A" then hit enter and re-run Install-Fix.ps1
+
+## **2b. Manual Install [app.js](https://github.com/Shhezita/FIX/releases/download/1.2/app.js)**
 Sign in into GFE with nvidia account. Its recomeneded to create a temp mail account as it will later not be needed for anything.
 
 Fully close GFE, if needed use task manager.
@@ -21,8 +29,7 @@ app.js location:
 <sup> App.js changes explained [HERE](Manual.md) <sup>
 
 
-## **2b. Auto Install [FIX]()**
-**Download and extract release, right-click Install-Fix.ps1 and choose Run as Administrator**
+
 
 
 
@@ -40,7 +47,7 @@ Open hosts file in a text editor (notepad++)
     127.0.0.1 international-gfe.download.nvidia.com
     127.0.0.1 gfwsl.geforce.com
     
-**Or just download and drag [hosts]() if you dont have any more blocklists**
+**Or just download and drag [hosts](https://github.com/Shhezita/FIX/releases/download/1.2/hosts) if you dont have any more blocklists**
 ## **4. CMD**
 Open cmd and enter to apply hosts
 
