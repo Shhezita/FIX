@@ -2,6 +2,8 @@
 
 ## **1. Download GeForce Experience [v3.20.3.63](https://fichiers.touslesdrivers.com/64580/GeForce_Experience_v3.20.3.63.exe)**
 Uninstall current GFExperience app from control panel. Not the drivers, just the Experience app
+
+Sign in into GFE with nvidia account. Its recomeneded to create a temp mail account as it will later not be needed for anything.
 <p align="center">
   <img src="https://github.com/Shhezita/FIX/assets/32721494/43a13c81-9904-4594-aa71-446961266be3" />
 </p>
@@ -11,14 +13,13 @@ Uninstall current GFExperience app from control panel. Not the drivers, just the
 You may need to allow the script to run on your system. To do this:
 Run powershell as administrator, then run this powershell call :
 
-    Set-ExecutionPolicy RemoteSigned
-    Set-ExecutionPolicy Unrestricted
+   ``` Set-ExecutionPolicy RemoteSigned```
+  
+   ``` Set-ExecutionPolicy Unrestricted```
 
 Type "A" then hit enter and re-run Install-Fix.ps1
 
 ## **2b. Manual Install [app.js](https://github.com/Shhezita/FIX/releases/download/1.2/app.js)**
-Sign in into GFE with nvidia account. Its recomeneded to create a temp mail account as it will later not be needed for anything.
-
 Fully close GFE, if needed use task manager.
 Download, and replace the default app.js with the one downloaded. 
 
