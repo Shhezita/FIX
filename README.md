@@ -66,7 +66,7 @@ Open cmd and enter to apply hosts
   <img src="https://github.com/Shhezita/FIX/assets/32721494/68b754f7-96a1-4836-bf80-a752c00dc9c0" />
 </p>
 
-## **6. TUTORIAL**
+## **6. 🎥TUTORIAL🎥**
 
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/2UvPNOV4Acs/0.jpg)](https://www.youtube.com/watch?v=2UvPNOV4Acs)
