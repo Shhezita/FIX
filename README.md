@@ -10,6 +10,7 @@ Sign in into GFE with nvidia account. Its recomeneded to create a temp mail acco
 
 ## **2a. Auto Install [FIX](https://github.com/Shhezita/FIX/releases/download/1.2/AutoInstall.ps1) and [app.js](https://github.com/Shhezita/FIX/releases/download/1.2/app.js)**
 **Download and extract release, right-click  AutoInstall.ps1 and choose Run as Administrator**
+
 You may need to allow the script to run on your system. 
 
 To do this run powershell as administrator, then run this powershell call :
