@@ -5,10 +5,10 @@
    sessionToken: "dummySessionToken",
    userToken: "dummyUserToken",
    user: {
-          userId: "XXXXXXXX",
+          userId: "",
           core: {
-             birthdate: new Date("1900-01-01"),
-             displayName: "XXXXXXXX",
+             birthdate: new Date(""),
+             displayName: "",
              primaryEmailVerified: true
           }
       }
@@ -30,7 +30,5 @@ Replace (x4):
 
     .isShareSupported=!0,
 
-<p align="center">
-  <img src="https://github.com/Shheza/Fixy/assets/32721494/f2e2674a-3250-402f-ba5a-e695b07cdd75" />
-</p>
+
 
