@@ -71,3 +71,6 @@ Open cmd and enter to apply hosts
 
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/2UvPNOV4Acs/0.jpg)](https://www.youtube.com/watch?v=2UvPNOV4Acs)
+
+
+Credits to: Moyster, Still34, tahubird and hugmouse <3
