@@ -23,15 +23,15 @@ Type "A" then hit enter and re-run AutoInstall.ps1
 
 ## **2b. Manual Install [app.js](https://github.com/Shhezita/FIX/releases/download/1.2/app.js)**
 Fully close GFE, if needed use task manager.
+
 Download, and replace the default app.js with the one downloaded. 
 
 app.js location:
+
  ```
  C:\Program Files\NVIDIA Corporation\NVIDIA GeForce Experience\www
 ```
 <sup> App.js changes explained [HERE](Manual.md) <sup>
-
-
 
 
 
