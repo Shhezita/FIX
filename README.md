@@ -22,6 +22,7 @@ To do this run powershell as administrator, then run this powershell call :
 Type "A" then hit enter and re-run AutoInstall.ps1
 
 ## **2b. Manual Install [app.js](https://github.com/Shhezita/FIX/releases/download/1.2/app.js)**
+### **ALTERNATIVE TO 2a**
 Fully close GFE, if needed use task manager.
 
 Download, and replace the default app.js with the one downloaded. 
