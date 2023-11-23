@@ -36,7 +36,7 @@ app.js location:
 
 
 
-## **3. Hosts**    
+## **3. Hosts** (to prevent gfe updates)   
 
 Open hosts file in a text editor (notepad++)  
 
@@ -51,7 +51,7 @@ Open hosts file in a text editor (notepad++)
     127.0.0.1 gfwsl.geforce.com
     
 **Or just download and drag [hosts](https://github.com/Shhezita/FIX/releases/download/1.2/hosts) if you dont have any more blocklists**
-## **4. CMD**
+## **4. CMD** (to apply hosts)
 Open cmd and enter to apply hosts
 
     ipconfig /flushdns
